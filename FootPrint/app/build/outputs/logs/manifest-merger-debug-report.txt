@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml:2:1-24:12
-INJECTED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml:2:1-24:12
-INJECTED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml:2:1-24:12
-INJECTED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml:2:1-24:12
+ADDED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml:2:1-28:12
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\44ca6777b7c9cb8dbe34af2cfd9d03f7\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\3983e0814121fe8d8992895b4050c44a\AndroidManifest.xml:2:1-11:12
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\399f34e5c00f265c062ef792dd501939\AndroidManifest.xml:17:1-28:12
@@ -15,25 +15,25 @@ MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\ASUS\.gradl
 MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\fe64e0ebfcc367b99b965a9621b5d218\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-compat:26.1.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\4aa4243246f15fc8127e64dab5346466\AndroidManifest.xml:17:1-31:12
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\cc56ba0c41ef6297abcc48facce8ca7f\AndroidManifest.xml:17:1-30:12
-INJECTED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml:2:1-24:12
-INJECTED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml:2:1-24:12
-INJECTED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml:2:1-28:12
 	package
 		ADDED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml:3:5-41
 		INJECTED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml:2:1-24:12
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml:2:1-28:12
 		INJECTED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml:2:1-24:12
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml:2:1-28:12
 		INJECTED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml:5:5-22:19
+ADDED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml:5:5-26:19
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\44ca6777b7c9cb8dbe34af2cfd9d03f7\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\44ca6777b7c9cb8dbe34af2cfd9d03f7\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\3983e0814121fe8d8992895b4050c44a\AndroidManifest.xml:9:5-20
@@ -82,18 +82,34 @@ category#android.intent.category.LAUNCHER
 ADDED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml:16:17-77
 	android:name
 		ADDED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml:16:27-74
-activity#com.example.asus.footprint.RegisterActivity
+activity#com.example.asus.footprint.ActivityActivity
 ADDED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml:19:9-54
 	android:name
 		ADDED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml:19:19-51
+activity#com.example.asus.footprint.PlanActivity
+ADDED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml:20:9-50
+	android:name
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml:20:19-47
+activity#com.example.asus.footprint.ProcessActivity
+ADDED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml:21:9-53
+	android:name
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml:21:19-50
+activity#com.example.asus.footprint.ProfileActivity
+ADDED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml:22:9-53
+	android:name
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml:22:19-50
+activity#com.example.asus.footprint.RegisterActivity
+ADDED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml:23:9-54
+	android:name
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml:23:19-51
 activity#com.example.asus.footprint.LoginInActivity
-ADDED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml:20:9-53
+ADDED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml:24:9-53
 	android:name
-		ADDED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml:20:19-50
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml:24:19-50
 activity#com.example.asus.footprint.AdditionalActivity
-ADDED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml:21:9-65
+ADDED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml:25:9-65
 	android:name
-		ADDED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml:21:19-53
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml:25:19-53
 uses-sdk
 INJECTED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml
