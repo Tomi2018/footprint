@@ -31,7 +31,6 @@ public class ProfileActivity extends AppCompatActivity {
     }
 
     public void imgButtonClick_profile(View view) {
-        Intent intent = new Intent(ProfileActivity.this, ProfileActivity.class);
-        startActivity(intent);
+
     }
 }

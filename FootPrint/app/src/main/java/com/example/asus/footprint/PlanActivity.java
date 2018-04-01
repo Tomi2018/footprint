@@ -26,8 +26,7 @@ public class PlanActivity extends AppCompatActivity {
     }
 
     public void imgButtonClick_plan(View view){
-        Intent intent = new Intent(PlanActivity.this, PlanActivity.class);
-        startActivity(intent);
+
     }
 
     public void imgButtonClick_profile(View view){

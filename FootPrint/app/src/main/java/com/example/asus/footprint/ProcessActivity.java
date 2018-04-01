@@ -14,8 +14,6 @@ public class ProcessActivity extends AppCompatActivity {
     }
 
     public void imgButtonClick_process(View view){
-        Intent intent = new Intent(ProcessActivity.this, ProcessActivity.class);
-        startActivity(intent);
     }
 
     public void imgButtonClick_activity(View view){

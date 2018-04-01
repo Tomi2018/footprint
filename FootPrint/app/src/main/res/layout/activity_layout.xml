@@ -55,22 +55,23 @@
         android:text="Today" />
 
     <TextView
-        android:id="@+id/textView14"
+        android:id="@+id/busu"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_below="@+id/textView8"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="27dp"
-        android:text="1425"
+        android:text="0"
         android:textSize="35sp" />
 
     <TextView
         android:id="@+id/textView15"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_below="@+id/textView14"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="25dp"
-        android:text="6,575 steps to your goal" />
+        android:layout_below="@+id/busu"
+        android:layout_marginTop="77dp"
+        android:layout_toEndOf="@+id/imageButton"
+        android:layout_toRightOf="@+id/imageButton"
+        android:text="8000 steps to your goal" />
 
 </RelativeLayout>
