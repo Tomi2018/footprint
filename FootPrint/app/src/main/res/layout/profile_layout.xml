@@ -34,10 +34,11 @@
         android:layout_alignParentEnd="true"
         android:layout_alignParentRight="true"
         android:layout_below="@+id/textView22"
+        android:layout_marginHorizontal="8dp"
         android:layout_marginTop="36dp"
         android:text="Daily Step Goal"
-        android:textSize="24sp"
-        android:textColor="@android:color/black"/>
+        android:textColor="@android:color/black"
+        android:textSize="24sp" />
 
     <TextView
         android:id="@+id/textView25"
@@ -46,9 +47,10 @@
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true"
         android:layout_below="@+id/editText9"
+        android:layout_marginHorizontal="8dp"
         android:layout_marginTop="23dp"
         android:text="Great! This goal is ideal for you."
-        android:textColor="@android:color/black"/>
+        android:textColor="@android:color/black" />
 
     <ImageButton
         android:id="@+id/imageButton5"
@@ -67,11 +69,12 @@
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true"
         android:layout_below="@+id/textView23"
+        android:layout_marginHorizontal="8dp"
         android:layout_marginTop="33dp"
         android:ems="10"
         android:inputType="textPersonName"
         android:text="8000"
-        android:textColor="@android:color/black"/>
+        android:textColor="@android:color/black" />
 
 </RelativeLayout>
 

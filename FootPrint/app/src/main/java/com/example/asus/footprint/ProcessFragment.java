@@ -15,7 +15,7 @@ import java.text.SimpleDateFormat;
  */
 
 public class ProcessFragment extends Fragment {
-   // private TextView view_time;
+   private TextView view_time;
     private int value_step;
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState)
@@ -23,20 +23,20 @@ public class ProcessFragment extends Fragment {
         View view = inflater.inflate(R.layout.process_layout, container, false);
         //view_time.setText("1111");
 
-        //time( view);
+        time( view);
        // average();
 
 
         return view;
     }
-   /* private void time(View view)
+    private void time(View view)
     {
-        SimpleDateFormat sd=new SimpleDateFormat("MM");
+        SimpleDateFormat sd=new SimpleDateFormat("yyyy-MM-dd");
         String date=sd.format(new java.util.Date());
 
         view_time = view.findViewById(R.id.textView9);
-
-        if (date=="01")
+        view_time.setText(date);
+        /*if (date=="01")
         {
             view_time.setText("JANUARY STATUS");
         }
@@ -83,8 +83,8 @@ public class ProcessFragment extends Fragment {
         else if (date=="12")
         {
             view_time.setText("DECEMBER STATUS");
-        }
-    }*/
+        }*/
+    }
    /* private void average()
     {
         int step[]={0};

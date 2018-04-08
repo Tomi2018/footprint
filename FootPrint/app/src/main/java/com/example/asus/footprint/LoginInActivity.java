@@ -17,4 +17,10 @@ public class LoginInActivity extends AppCompatActivity {
         Intent intent = new Intent(LoginInActivity.this, AdditionalActivity.class);
         startActivity(intent);
     }
+
+    public void btnvisitor(View view) {
+
+        Intent intent = new Intent(LoginInActivity.this, AdditionalActivity.class);
+        startActivity(intent);
+    }
 }

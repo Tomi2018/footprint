@@ -1,4 +1,4 @@
-#Sun Apr 08 18:19:15 CST 2018
+#Sun Apr 08 22:33:23 CST 2018
 base.0=C\:\\Users\\ASUS\\AndroidStudioProjects\\FootPrint\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
 path.0=classes.dex
 renamed.0=classes.dex
