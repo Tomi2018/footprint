@@ -13,7 +13,7 @@ public class AdditionalActivity extends AppCompatActivity {
         setContentView(R.layout.activity_additional);
     }
 
-    public void btnClick_done(View view) {
+    public void btnDone(View view) {//
 
         Intent intent = new Intent(AdditionalActivity.this, ProcessActivity.class);
         startActivity(intent);

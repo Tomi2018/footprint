@@ -20,6 +20,17 @@ import android.util.Log;
 import android.widget.TextView;
 
 
+import android.app.Fragment;
+
+import android.os.Bundle;
+
+import android.view.LayoutInflater;
+
+import android.view.View;
+
+import android.view.ViewGroup;
+
+
 public class ActivityActivity extends AppCompatActivity {
 
     private BindService bindService;
@@ -39,31 +50,13 @@ public class ActivityActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_layout);
+       // setContentView(R.layout.activity_layout);
         textView = (TextView) findViewById(R.id.busu);
         Intent intent = new Intent(ActivityActivity.this, BindService.class);
         isBind =  bindService(intent, serviceConnection, Context.BIND_AUTO_CREATE);
         startService(intent);
     }
 
-    public void imgButtonClick_process(View view){
-        Intent intent = new Intent(ActivityActivity.this, ProcessActivity.class);
-        startActivity(intent);
-    }
-
-    public void imgButtonClick_activity(View view){
-
-    }
-
-    public void imgButtonClick_plan(View view){
-        Intent intent = new Intent(ActivityActivity.this, PlanActivity.class);
-        startActivity(intent);
-    }
-
-    public void imgButtonClick_profile(View view){
-        Intent intent = new Intent(ActivityActivity.this, ProfileActivity.class);
-        startActivity(intent);
-    }
 
 
 

@@ -12,7 +12,7 @@ public class LoginInActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_login_in);
     }
-    public void btnClick_loginin(View view) {
+    public void btnLogin(View view) {
 
         Intent intent = new Intent(LoginInActivity.this, AdditionalActivity.class);
         startActivity(intent);

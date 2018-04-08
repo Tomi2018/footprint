@@ -13,7 +13,7 @@ public class RegisterActivity extends AppCompatActivity {
         setContentView(R.layout.activity_register);
     }
 
-    public void btnClick_signin(View view) {
+    public void btnSignIn(View view) {
 
         Intent intent = new Intent(RegisterActivity.this, LoginInActivity.class);
         startActivity(intent);
