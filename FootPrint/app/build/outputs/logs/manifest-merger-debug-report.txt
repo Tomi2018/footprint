@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml:2:1-51:12
-INJECTED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml:2:1-51:12
-INJECTED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml:2:1-51:12
-INJECTED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml:2:1-51:12
+ADDED from E:\gitwarehouse\footprint\FootPrint\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from E:\gitwarehouse\footprint\FootPrint\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from E:\gitwarehouse\footprint\FootPrint\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from E:\gitwarehouse\footprint\FootPrint\app\src\main\AndroidManifest.xml:2:1-51:12
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\44ca6777b7c9cb8dbe34af2cfd9d03f7\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\3983e0814121fe8d8992895b4050c44a\AndroidManifest.xml:2:1-11:12
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\399f34e5c00f265c062ef792dd501939\AndroidManifest.xml:17:1-28:12
@@ -15,57 +15,57 @@ MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\ASUS\.gradl
 MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\fe64e0ebfcc367b99b965a9621b5d218\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-compat:26.1.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\4aa4243246f15fc8127e64dab5346466\AndroidManifest.xml:17:1-31:12
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\cc56ba0c41ef6297abcc48facce8ca7f\AndroidManifest.xml:17:1-30:12
-INJECTED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml:2:1-51:12
-INJECTED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml:2:1-51:12
-INJECTED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from E:\gitwarehouse\footprint\FootPrint\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from E:\gitwarehouse\footprint\FootPrint\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from E:\gitwarehouse\footprint\FootPrint\app\src\main\AndroidManifest.xml:2:1-51:12
 	package
-		ADDED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml:3:5-41
-		INJECTED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml
+		ADDED from E:\gitwarehouse\footprint\FootPrint\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from E:\gitwarehouse\footprint\FootPrint\app\src\main\AndroidManifest.xml
+		INJECTED from E:\gitwarehouse\footprint\FootPrint\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml:2:1-51:12
-		INJECTED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml
+		INJECTED from E:\gitwarehouse\footprint\FootPrint\app\src\main\AndroidManifest.xml
+		ADDED from E:\gitwarehouse\footprint\FootPrint\app\src\main\AndroidManifest.xml:2:1-51:12
+		INJECTED from E:\gitwarehouse\footprint\FootPrint\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml:2:1-51:12
-		INJECTED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml
+		INJECTED from E:\gitwarehouse\footprint\FootPrint\app\src\main\AndroidManifest.xml
+		ADDED from E:\gitwarehouse\footprint\FootPrint\app\src\main\AndroidManifest.xml:2:1-51:12
+		INJECTED from E:\gitwarehouse\footprint\FootPrint\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from E:\gitwarehouse\footprint\FootPrint\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.VIBRATE
-ADDED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml:6:5-66
+ADDED from E:\gitwarehouse\footprint\FootPrint\app\src\main\AndroidManifest.xml:6:5-66
 	android:name
-		ADDED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml:6:22-63
+		ADDED from E:\gitwarehouse\footprint\FootPrint\app\src\main\AndroidManifest.xml:6:22-63
 uses-permission#android.permission.WRITE_SETTINGS
-ADDED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml:7:5-73
+ADDED from E:\gitwarehouse\footprint\FootPrint\app\src\main\AndroidManifest.xml:7:5-73
 	android:name
-		ADDED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml:7:22-70
+		ADDED from E:\gitwarehouse\footprint\FootPrint\app\src\main\AndroidManifest.xml:7:22-70
 uses-feature#android.hardware.sensor.accelerometer
-ADDED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml:9:5-74
+ADDED from E:\gitwarehouse\footprint\FootPrint\app\src\main\AndroidManifest.xml:9:5-74
 	android:name
-		ADDED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml:9:19-71
+		ADDED from E:\gitwarehouse\footprint\FootPrint\app\src\main\AndroidManifest.xml:9:19-71
 uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
-ADDED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml:11:5-81
+ADDED from E:\gitwarehouse\footprint\FootPrint\app\src\main\AndroidManifest.xml:11:5-81
 	android:name
-		ADDED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml:11:22-78
+		ADDED from E:\gitwarehouse\footprint\FootPrint\app\src\main\AndroidManifest.xml:11:22-78
 uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
-ADDED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml:12:5-84
+ADDED from E:\gitwarehouse\footprint\FootPrint\app\src\main\AndroidManifest.xml:12:5-84
 	android:name
-		ADDED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml:12:22-81
+		ADDED from E:\gitwarehouse\footprint\FootPrint\app\src\main\AndroidManifest.xml:12:22-81
 uses-feature#android.hardware.sensor.stepcounter
-ADDED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml:14:5-16:35
+ADDED from E:\gitwarehouse\footprint\FootPrint\app\src\main\AndroidManifest.xml:14:5-16:35
 	android:required
-		ADDED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml:16:9-32
+		ADDED from E:\gitwarehouse\footprint\FootPrint\app\src\main\AndroidManifest.xml:16:9-32
 	android:name
-		ADDED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml:15:9-59
+		ADDED from E:\gitwarehouse\footprint\FootPrint\app\src\main\AndroidManifest.xml:15:9-59
 uses-feature#android.hardware.sensor.stepdetector
-ADDED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml:17:5-19:35
+ADDED from E:\gitwarehouse\footprint\FootPrint\app\src\main\AndroidManifest.xml:17:5-19:35
 	android:required
-		ADDED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml:19:9-32
+		ADDED from E:\gitwarehouse\footprint\FootPrint\app\src\main\AndroidManifest.xml:19:9-32
 	android:name
-		ADDED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml:18:9-60
+		ADDED from E:\gitwarehouse\footprint\FootPrint\app\src\main\AndroidManifest.xml:18:9-60
 application
-ADDED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml:22:5-49:19
+ADDED from E:\gitwarehouse\footprint\FootPrint\app\src\main\AndroidManifest.xml:22:5-49:19
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\44ca6777b7c9cb8dbe34af2cfd9d03f7\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\44ca6777b7c9cb8dbe34af2cfd9d03f7\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\3983e0814121fe8d8992895b4050c44a\AndroidManifest.xml:9:5-20
@@ -89,71 +89,71 @@ MERGED from [com.android.support:support-compat:26.1.0] C:\Users\ASUS\.gradle\ca
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\cc56ba0c41ef6297abcc48facce8ca7f\AndroidManifest.xml:24:5-28:19
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\cc56ba0c41ef6297abcc48facce8ca7f\AndroidManifest.xml:24:5-28:19
 	android:supportsRtl
-		ADDED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml:27:9-35
+		ADDED from E:\gitwarehouse\footprint\FootPrint\app\src\main\AndroidManifest.xml:27:9-35
 	android:label
-		ADDED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml:25:9-41
+		ADDED from E:\gitwarehouse\footprint\FootPrint\app\src\main\AndroidManifest.xml:25:9-41
 	android:roundIcon
-		ADDED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml:26:9-54
+		ADDED from E:\gitwarehouse\footprint\FootPrint\app\src\main\AndroidManifest.xml:26:9-54
 	android:icon
-		ADDED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml:24:9-41
+		ADDED from E:\gitwarehouse\footprint\FootPrint\app\src\main\AndroidManifest.xml:24:9-41
 	android:allowBackup
-		ADDED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml:23:9-35
+		ADDED from E:\gitwarehouse\footprint\FootPrint\app\src\main\AndroidManifest.xml:23:9-35
 	android:theme
-		ADDED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml:28:9-59
+		ADDED from E:\gitwarehouse\footprint\FootPrint\app\src\main\AndroidManifest.xml:28:9-59
 activity#com.example.asus.footprint.MainActivity
-ADDED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml:29:9-35:20
+ADDED from E:\gitwarehouse\footprint\FootPrint\app\src\main\AndroidManifest.xml:29:9-35:20
 	android:name
-		ADDED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml:29:19-47
+		ADDED from E:\gitwarehouse\footprint\FootPrint\app\src\main\AndroidManifest.xml:29:19-47
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml:30:13-34:29
+ADDED from E:\gitwarehouse\footprint\FootPrint\app\src\main\AndroidManifest.xml:30:13-34:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml:31:17-69
+ADDED from E:\gitwarehouse\footprint\FootPrint\app\src\main\AndroidManifest.xml:31:17-69
 	android:name
-		ADDED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml:31:25-66
+		ADDED from E:\gitwarehouse\footprint\FootPrint\app\src\main\AndroidManifest.xml:31:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml:33:17-77
+ADDED from E:\gitwarehouse\footprint\FootPrint\app\src\main\AndroidManifest.xml:33:17-77
 	android:name
-		ADDED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml:33:27-74
+		ADDED from E:\gitwarehouse\footprint\FootPrint\app\src\main\AndroidManifest.xml:33:27-74
 activity#com.example.asus.footprint.ActivityActivity
-ADDED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml:36:9-54
+ADDED from E:\gitwarehouse\footprint\FootPrint\app\src\main\AndroidManifest.xml:36:9-54
 	android:name
-		ADDED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml:36:19-51
+		ADDED from E:\gitwarehouse\footprint\FootPrint\app\src\main\AndroidManifest.xml:36:19-51
 activity#com.example.asus.footprint.PlanActivity
-ADDED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml:37:9-50
+ADDED from E:\gitwarehouse\footprint\FootPrint\app\src\main\AndroidManifest.xml:37:9-50
 	android:name
-		ADDED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml:37:19-47
+		ADDED from E:\gitwarehouse\footprint\FootPrint\app\src\main\AndroidManifest.xml:37:19-47
 activity#com.example.asus.footprint.ProcessActivity
-ADDED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml:38:9-53
+ADDED from E:\gitwarehouse\footprint\FootPrint\app\src\main\AndroidManifest.xml:38:9-53
 	android:name
-		ADDED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml:38:19-50
+		ADDED from E:\gitwarehouse\footprint\FootPrint\app\src\main\AndroidManifest.xml:38:19-50
 activity#com.example.asus.footprint.ProfileActivity
-ADDED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml:39:9-53
+ADDED from E:\gitwarehouse\footprint\FootPrint\app\src\main\AndroidManifest.xml:39:9-53
 	android:name
-		ADDED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml:39:19-50
+		ADDED from E:\gitwarehouse\footprint\FootPrint\app\src\main\AndroidManifest.xml:39:19-50
 activity#com.example.asus.footprint.RegisterActivity
-ADDED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml:40:9-54
+ADDED from E:\gitwarehouse\footprint\FootPrint\app\src\main\AndroidManifest.xml:40:9-54
 	android:name
-		ADDED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml:40:19-51
+		ADDED from E:\gitwarehouse\footprint\FootPrint\app\src\main\AndroidManifest.xml:40:19-51
 activity#com.example.asus.footprint.LoginInActivity
-ADDED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml:41:9-53
+ADDED from E:\gitwarehouse\footprint\FootPrint\app\src\main\AndroidManifest.xml:41:9-53
 	android:name
-		ADDED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml:41:19-50
+		ADDED from E:\gitwarehouse\footprint\FootPrint\app\src\main\AndroidManifest.xml:41:19-50
 activity#com.example.asus.footprint.AdditionalActivity
-ADDED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml:42:9-56
+ADDED from E:\gitwarehouse\footprint\FootPrint\app\src\main\AndroidManifest.xml:42:9-56
 	android:name
-		ADDED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml:42:19-53
+		ADDED from E:\gitwarehouse\footprint\FootPrint\app\src\main\AndroidManifest.xml:42:19-53
 service#com.example.asus.footprint.BindService
-ADDED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml:44:9-47:39
+ADDED from E:\gitwarehouse\footprint\FootPrint\app\src\main\AndroidManifest.xml:44:9-47:39
 	android:enabled
-		ADDED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml:46:13-35
+		ADDED from E:\gitwarehouse\footprint\FootPrint\app\src\main\AndroidManifest.xml:46:13-35
 	android:exported
-		ADDED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml:47:13-36
+		ADDED from E:\gitwarehouse\footprint\FootPrint\app\src\main\AndroidManifest.xml:47:13-36
 	android:name
-		ADDED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml:45:13-40
+		ADDED from E:\gitwarehouse\footprint\FootPrint\app\src\main\AndroidManifest.xml:45:13-40
 uses-sdk
-INJECTED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml
+INJECTED from E:\gitwarehouse\footprint\FootPrint\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\gitwarehouse\footprint\FootPrint\app\src\main\AndroidManifest.xml
+INJECTED from E:\gitwarehouse\footprint\FootPrint\app\src\main\AndroidManifest.xml
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\44ca6777b7c9cb8dbe34af2cfd9d03f7\AndroidManifest.xml:21:5-23:78
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\44ca6777b7c9cb8dbe34af2cfd9d03f7\AndroidManifest.xml:21:5-23:78
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\3983e0814121fe8d8992895b4050c44a\AndroidManifest.xml:5:5-7:41
@@ -176,18 +176,18 @@ MERGED from [com.android.support:support-compat:26.1.0] C:\Users\ASUS\.gradle\ca
 MERGED from [com.android.support:support-compat:26.1.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\4aa4243246f15fc8127e64dab5346466\AndroidManifest.xml:21:5-23:58
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\cc56ba0c41ef6297abcc48facce8ca7f\AndroidManifest.xml:20:5-22:41
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\cc56ba0c41ef6297abcc48facce8ca7f\AndroidManifest.xml:20:5-22:41
-INJECTED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml
+INJECTED from E:\gitwarehouse\footprint\FootPrint\app\src\main\AndroidManifest.xml
+INJECTED from E:\gitwarehouse\footprint\FootPrint\app\src\main\AndroidManifest.xml
 	tools:overrideLibrary
 		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\44ca6777b7c9cb8dbe34af2cfd9d03f7\AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
-		INJECTED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml
+		INJECTED from E:\gitwarehouse\footprint\FootPrint\app\src\main\AndroidManifest.xml
+		ADDED from E:\gitwarehouse\footprint\FootPrint\app\src\main\AndroidManifest.xml
+		INJECTED from E:\gitwarehouse\footprint\FootPrint\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\ASUS\AndroidStudioProjects\FootPrint\app\src\main\AndroidManifest.xml
+		INJECTED from E:\gitwarehouse\footprint\FootPrint\app\src\main\AndroidManifest.xml
+		ADDED from E:\gitwarehouse\footprint\FootPrint\app\src\main\AndroidManifest.xml
+		INJECTED from E:\gitwarehouse\footprint\FootPrint\app\src\main\AndroidManifest.xml
 meta-data#android.support.VERSION
 ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\44ca6777b7c9cb8dbe34af2cfd9d03f7\AndroidManifest.xml:26:9-28:38
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\399f34e5c00f265c062ef792dd501939\AndroidManifest.xml:23:9-25:38

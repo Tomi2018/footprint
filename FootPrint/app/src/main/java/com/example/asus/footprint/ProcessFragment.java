@@ -10,6 +10,11 @@ import android.widget.TextView;
 import java.sql.Time;
 import java.text.SimpleDateFormat;
 
+
+import java.util.Arrays;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
+
 /**
  * Created by ASUS on 2018/4/3.
  */
@@ -17,25 +22,47 @@ import java.text.SimpleDateFormat;
 public class ProcessFragment extends Fragment {
    private TextView view_time;
     private int value_step;
+
+    private int value4 ;
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState)
     {
         View view = inflater.inflate(R.layout.process_layout, container, false);
-        //view_time.setText("1111");
+
 
         time( view);
-       // average();
 
+       // value4 = ActivityFragment.value1;
 
         return view;
     }
     private void time(View view)
     {
-        SimpleDateFormat sd=new SimpleDateFormat("yyyy-MM-dd");
+        SimpleDateFormat sd=new SimpleDateFormat("MM");
         String date=sd.format(new java.util.Date());
+        String[] date2={"01","02","03","04","05","06","07","08","09","10","11","12"};
+        String moth[] = {"JANUARY STATUS","FEBRUARY STATUS","MARCH STATUS","APRIL STATUS","MAY STATUS","JUNE STATUS","JULY STATUS","AUGEST STATUS","SEPTEMBER STATUS","OCTOBER STATUS","NOVEMBER STATUS","DECEMBER STATUS"};
 
         view_time = view.findViewById(R.id.textView9);
-        view_time.setText(date);
+
+
+
+        for ( int i=0;i<12;i++)
+        {
+            boolean btn = date.equals(date2[i]);
+            if (btn==true)
+            {  view_time.setText(moth[i]);
+
+            }
+
+        }
+
+
+     /*   if (index >0)
+        {
+            view_time.setText(date);
+        }
+        else { view_time.setText(index);}*/
         /*if (date=="01")
         {
             view_time.setText("JANUARY STATUS");
@@ -78,13 +105,14 @@ public class ProcessFragment extends Fragment {
         }
         else if (date=="11")
         {
-            view_time.setText("NOVEMBER STATUS");
+            view_time.setText("NOVEMBER STATUS",DECEMBER STATUS");
         }
         else if (date=="12")
         {
             view_time.setText("DECEMBER STATUS");
         }*/
     }
+
    /* private void average()
     {
         int step[]={0};

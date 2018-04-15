@@ -149,7 +149,7 @@ public class RegisterActivity extends Activity implements View.OnClickListener {
     private void saveUsersInfo() {
         SharedPreferences sharedPreferences = getSharedPreferences("UsersInfo",MODE_APPEND);
         SharedPreferences.Editor editor = sharedPreferences.edit();
-        editor.putString("usercount", edit_register.getText().toString());
+        editor.putString("username", edit_register.getText().toString());
         //判断注册时的两次密码是否相同
         if (edit_setpassword.getText().toString().equals(edit_resetpassword.getText().toString())) {
             editor.putString("password", edit_setpassword.getText().toString());
@@ -163,7 +163,7 @@ public class RegisterActivity extends Activity implements View.OnClickListener {
     private void registerUserInfo(String username, String userpassword) {
         SQLiteDatabase db = dbHelper.getWritableDatabase();
         ContentValues values = new ContentValues();
-        values.put("usercount", username);
+        values.put("username", username);
         values.put("password", userpassword);
         db.insert("usertable", null, values);
         db.close();
